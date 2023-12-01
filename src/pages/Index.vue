@@ -2,8 +2,8 @@
   <Layout>
     <div class="hero container-inner mx-auto flex flex-col sm:flex-row justify-between py-16 mt-8">
       <div class="text-4xl font-bold w-full sm:w-3/5 text-center sm:text-left">
-        <div class="leading-tight">Gridsome Portfolio Starter</div>
-        <div class="text-green-700 leading-tight">Powered by Vue.js &amp; Tailwind v1</div>
+        <div class="leading-tight">Tech 42 Network</div>
+        <div class="text-green-700 leading-tight">Technicians for hire - freelancer group</div>
       </div>
       <div class="mt-8 sm:mt-0">
         <g-image src="../../static/developer.svg" alt="hero" class="mx-auto sm:mx-0" />
@@ -11,7 +11,7 @@
     </div> <!-- end hero -->
 
     <div class="container-inner mx-auto">
-      <p class="text-lg sm:text-xl">This gridsome theme was forked from my <a href="https://andremadarang.com">personal website</a>. I added more features and decided to release it as an open source project. Check it out on <a href="https://github.com/drehimself/gridsome-portfolio-starter">GitHub</a> or check out the <a href="https://www.youtube.com/watch?v=uHo6o1TNQeE">screencast I did</a>. Feel free to use it for your own site or projects! Lorem, ipsum dolor sit amet consectetur adipisicing elit. Minima, repellat. Dolores iure, quas perspiciatis rerum quaerat atque eum repellat autem.</p>
+      <p class="text-lg sm:text-xl">Welcome to Tech42Network, a dynamic collective of hybrid developers poised and ready for engagement in cutting-edge web application projects. Our skilled team not only excels in client work but also pioneers innovation through our proprietary products.</p>
 
       <div class="flex justify-between items-center py-6">
         <div class="w-full sm:w-1/2 px-8 py-8 sm:py-0">
@@ -26,7 +26,7 @@
     <div class="overflow-x-hidden">
       <div id="projects" style="position: relative; top: -40px; left: 0"/>
       <div class="projects container-inner mx-auto text-xl border-t border-gray-500 border-b py-16 mb-16 relative">
-        <h2 class="font-bold mb-6">Here are some projects I've worked on:</h2>
+        <h2 class="font-bold mb-6">Here are some projects We've worked on:</h2>
 
         <div class="absolute right-0" style="top: 50px; transform: translate(100%) rotate(180deg)">
           <svg width="170px" height="170px"><use xlink:href="#dots-triangle" /></svg>
@@ -34,60 +34,41 @@
 
         <ul class="text-lg sm:text-xl space-y-6">
           <li class="checkmark">
-            <div>Project One</div>
-            <div class="text-lg text-gray-600">Lorem ipsum dolor sit amet consectetur adipisicing elit. Qui ab nam animi iure nemo exercitationem a, eius non culpa itaque!</div>
+            <div>Tech42Education</div>
+            <div class="text-lg text-gray-600">Tech42Education is a groundbreaking project committed to transforming the educational landscape with a suite of applications, including an innovative exam system, a comprehensive e-library, and a wiki-like platform—empowering learners and educators alike with cutting-edge tools for a seamless educational experience.</div>
           </li>
           <li class="checkmark">
-            <div>Project Two</div>
-            <div class="text-lg text-gray-600">Lorem ipsum dolor sit amet consectetur adipisicing elit. Qui ab nam animi iure nemo exercitationem a, eius non culpa itaque!</div>
+            <div>Tech42Artificial</div>
+            <div class="text-lg text-gray-600">Tech42Artificial pioneers the future of AI applications, offering solutions like an advanced car parking management system, an intelligent meeting minute summarizer, and an automated website creation tool tailored for introducing and optimizing SEO for company products. Harness the power of artificial intelligence for unprecedented efficiency and innovation.</div>
           </li>
           <li class="checkmark">
-            <div>Project Three</div>
-            <div class="text-lg text-gray-600">Lorem ipsum dolor sit amet consectetur adipisicing elit. Qui ab nam animi iure nemo exercitationem a, eius non culpa itaque!</div>
+            <div>Tech42eStore</div>
+            <div class="text-lg text-gray-600">From software solutions to bespoke application development services, Tech42Store is your go-to marketplace for all things tech and more. Elevate your digital experience with a seamless blend of specialized IT offerings and a wide range of general items.</div>
           </li>
           <li class="checkmark">
-            <div>Project Four</div>
-            <div class="text-lg text-gray-600">Lorem ipsum dolor sit amet consectetur adipisicing elit. Qui ab nam animi iure nemo exercitationem a, eius non culpa itaque!</div>
+            <div>Others</div>
+            <div class="text-lg text-gray-600">Our consultancy services extend from custom applications to strategic recommendations on open-source solutions, ensuring a perfect alignment with your budget and corporate objectives. Elevate your business with our personalized IT solutions, designed to optimize efficiency and meet your specific targets.</div>
           </li>
 
         </ul>
       </div> <!-- end projects -->
     </div>
 
-    <div class="overflow-x-hidden border-gray-200 border-b">
-      <div id="about" style="position: relative; top: -40px; left: 0"/>
-      <div class="get-to-know-me container-inner mx-auto text-xl pb-16 relative">
-        <h2 class="font-bold mb-6">Get to know me:</h2>
-
-        <div class="absolute left-0" style="top: 50px; transform: translateX(-100%)">
-          <svg width="170px" height="170px"><use xlink:href="#dots-triangle" /></svg>
-        </div>
-
-        <div class="flex flex-col sm:flex-row justify-between items-center mb-16">
-          <div><g-image src="../../static/avatar.jpg" alt="avatar" class="w-32 h-32 rounded-full mb-8 lg:mb-0" /></div>
-          <div class="flex-1 text-lg sm:text-xl ml-6">Lorem ipsum dolor sit amet consectetur, adipisicing elit. Eum quae architecto minus molestias iusto ducimus fuga quo quia libero dignissimos, fugiat modi assumenda debitis laboriosam.</div>
-        </div>
-
-        <div class="responsive-container">
-          <iframe class="responsive-iframe w-full h-full top-0 left-0 border-0" src="https://www.youtube.com/embed/uHo6o1TNQeE" style="border:0;" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-        </div>
-      </div> <!-- end get-to-know me -->
-    </div>
-
     <div class="overflow-x-hidden">
       <div id="contact" style="position: relative; top: -40px; left: 0"/>
       <div class="contact-me bg-background-secondary pt-16">
         <div class="container-inner mx-auto text-xl pb-4 relative">
-          <h2 class="font-bold mb-6">Contact me:</h2>
+          <!-- <h2 class="font-bold mb-6">Contact me:</h2>
 
           <div class="absolute right-0 top-0" style="transform: translate(100%) rotate(180deg)">
             <svg width="170px" height="170px"><use xlink:href="#dots-triangle" /></svg>
           </div>
 
-          <p class="mb-12">Static sites cannot submit forms on their own. However, services like <a href="https://www.netlify.com/docs/form-handling">Netlify Forms</a> or <a href="https://formspree.io">FormSpree</a> can help you do this without a backend.</p>
+          <p class="mb-12">Ready to unlock the full potential of your business? Take the first step towards cutting-edge IT solutions and exceptional products tailored just for you. Fill in the form below and let's embark on a journey of innovation together – your success starts with us!</p> -->
 
           <div class="text-lg sm:text-lg mb-16">
-            <form action="#" class="mb-12">
+            <iframe src="https://docs.google.com/forms/d/e/1FAIpQLSeSNd6jqB-CWf3jFADmMTH6dgWuz5o2e0B4J2eFsPUzFDo6bw/viewform?embedded=true" width="700" height="1124" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe>
+            <!-- <form action="#" class="mb-12">
               <div class="flex flex-wrap mb-6 -mx-4">
                   <div class="w-full md:w-1/2 mb-6 md:mb-0 px-4">
                       <label class="block mb-2 text-copy-primary" for="name">
@@ -117,7 +98,7 @@
               <div class="flex justify-end w-full">
                   <input type="submit" value="Submit" class="block bg-green-700 hover:bg-green-800 text-white text-sm font-semibold tracking-wide uppercase shadow rounded cursor-pointer px-6 py-3">
               </div>
-          </form>
+          </form> -->
           </div>
         </div>
       </div> <!-- end contact-me -->
@@ -126,10 +107,10 @@
     <div class="newsletter bg-background-tertiary">
       <div id="newsletter" style="position: relative; top: -40px; left: 0"/>
       <div class="container-inner mx-auto py-16 pb-8 text-center textl-xl">
-        <h2 class="text-2xl font-bold mb-8">Join my Newsletter</h2>
+        <h2 class="text-2xl font-bold mb-8">Join our Newsletter</h2>
 
         <div class="w-4/5 mx-auto mb-8">
-          <p class="mb-8 text-lg sm:text-xl">Lorem ipsum dolor, sit amet consectetur adipisicing elit. Corporis, voluptatum. Quam, deleniti nulla.</p>
+          <p class="mb-8 text-lg sm:text-xl">Stay ahead in the tech realm! Sign up for our newsletter to receive exclusive updates on the latest IT services, innovative products, and industry insights. Don't miss out on the future of technology – subscribe now and stay informed with our curated content delivered straight to your inbox!</p>
 
           <form action="#">
             <div class="flex flex-col sm:flex-row">
