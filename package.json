@@ -21,7 +21,7 @@
   },
   "devDependencies": {
     "@gridsome/cli": "^0.3.4",
-    "cypress": "^6.8.0",
+    "cypress": "^13.6.3",
     "gridsome-plugin-tailwindcss": "^3.0.1"
   }
 }
